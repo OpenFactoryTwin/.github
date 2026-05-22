@@ -47,7 +47,7 @@ Open source is central to our mission — accelerating research, enabling collab
 
 - [**ofact**](https://github.com/OpenFactoryTwin/ofact): The core OFacT framework — auto-generate digital twins from company data and enhance decision-making in production and logistics systems
 
-> **Own a related repository?** If you are working on tools, extensions, or research in the areas of digital twins, production simulation, or smart logistics, we warmly invite you to integrate your repository into this organization. Reach out via [contact](adrian.freiter@isst.fraunhofer.de) or open a discussion in one of our repositories.
+> **Own a related repository?** If you are working on tools, extensions, or research in the areas of digital twins, production simulation, or smart logistics, we warmly invite you to integrate your repository into this organization. Reach out via e-mail (adrian.freiter@isst.fraunhofer.de) or open a discussion in one of our repositories.
 
 ---
 
@@ -70,4 +70,4 @@ Interested in digital twins, production simulation, or smart logistics?
 
 - Contribute to our repositories via issues, discussions, and pull requests
 - Visit our [GitHub organization](https://github.com/OpenFactoryTwin) for all active projects
-- [Contact us](adrian.freiter@isst.fraunhofer.de) to explore research collaborations, industry partnerships, or to bring your own related project under the OFacT umbrella
+- Reach out to adrian.freiter@isst.fraunhofer.de to explore research collaborations, industry partnerships, or to bring your own related project under the OFacT umbrella
