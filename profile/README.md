@@ -1,22 +1,73 @@
-# Welcome!
+<h1 align="center">Open Factory Twin (OFacT)</h1>
 
-The *Open Factory Twin* (OFacT) project aims to provide a digital twin for production and logistics environments.
-Digital Twins (DT) represent their environment as a virtual model of all relevant parts of the real system. OFact 
-is meant to support the design, planning and operation control of discrete material flow systems and thus supporting 
-management of the system during the whole life cycle.     
+<p align="center">
+<strong>OFacT is an open-source digital twin framework for production and logistics environments.<br />
+We support the design, planning, and operational control of discrete material flow systems — across the full system life cycle.</strong>
+</p>
 
-Coming from the **challenges** such as ...
+<p align="center">
+  Digital Twins • Production Systems • Logistics • Discrete Simulation • Material Flow • Decision Support • Automated Model Generation • Validation & Verification • Machine Learning
+</p>
 
-* shorter production life cycles
-* frequently changing demands
-* complex supply chains
-* increasing number of possible product variants
-* regulations, legal requirements and restrictions
+<p align="center">
+  <a href="https://github.com/OpenFactoryTwin/ofact">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="OFacT on GitHub" />
+  </a>
+  <a href="https://www.isst.fraunhofer.de/de/abteilungen/industrial-manufacturing/technologien/OFacT.html">
+    <img src="https://img.shields.io/badge/website-005C7A.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="OFacT Website" />
+  </a>
+</p>
 
-... companies are faced constantly with complex decision that often needs a dynamic evaluation and comparison of various
-scenarios. Often detailed simulation models are the only way to get a reliable evaluation of costs and performance. Data 
-of the real world has to be integrated regularly into the simulation models to keep them up-to-date.  
-In the design (or re-design) phase of a production system, the digital twin can be used to simulate different design 
-alternatives and evaluate them even before the real system exists. When the real system is in operation, the digital twin
-can be used in an iterative way between planning orders and resources and controlling the plan during operations dealing 
-with disruptions in real time.
+---
+
+## 👋 About
+
+Companies face a continuously evolving set of pressures:
+
+- Shorter production life cycles
+- Frequently changing demands
+- Complex supply chains
+- Increasing number of product variants
+- Evolving regulations, legal requirements, and restrictions
+
+These challenges require constant, complex decision-making — often demanding dynamic evaluation and comparison of multiple scenarios. Detailed simulation models are frequently the only means of obtaining a reliable assessment of costs and performance, and real-world data must be continuously integrated to keep those models accurate and up-to-date.
+
+**OFacT** addresses this across two key phases of a production system:
+
+| Phase | How OFacT Helps |
+|---|---|
+| **Design / Re-design** | Simulate and evaluate design alternatives before the real system exists |
+| **Operation** | Iteratively plan orders and resources; control execution in real time when disruptions occur |
+
+Open source is central to our mission — accelerating research, enabling collaboration, and lowering the barrier for companies to adopt digital twin technology.
+
+---
+
+## 💻 Repositories
+
+- [**ofact**](https://github.com/OpenFactoryTwin/ofact): The core OFacT framework — auto-generate digital twins from company data and enhance decision-making in production and logistics systems
+
+> **Own a related repository?** If you are working on tools, extensions, or research in the areas of digital twins, production simulation, or smart logistics, we warmly invite you to integrate your repository into this organization. Reach out via [contact](adrian.freiter@isst.fraunhofer.de) or open a discussion in one of our repositories.
+
+---
+
+## 🏛️ Background
+
+OFacT is primarily driven by:
+
+| Institution | Role |
+|---|---|
+| [University of Applied Sciences and Arts Bielefeld](https://www.hsbi.de) | Research & development |
+| [Fraunhofer ISST](https://www.isst.fraunhofer.de) | Research & development |
+
+We are open to further institutional and industrial partners who share our vision of accessible, open digital twin technology.
+
+---
+
+## 🤝 Get Involved
+
+Interested in digital twins, production simulation, or smart logistics?
+
+- Contribute to our repositories via issues, discussions, and pull requests
+- Visit our [GitHub organization](https://github.com/OpenFactoryTwin) for all active projects
+- [Contact us](adrian.freiter@isst.fraunhofer.de) to explore research collaborations, industry partnerships, or to bring your own related project under the OFacT umbrella
