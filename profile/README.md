@@ -13,7 +13,7 @@ We support the design, planning, and operational control of discrete material fl
   <a href="https://github.com/OpenFactoryTwin/ofact">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="OFacT on GitHub" />
   </a>
-  <a href="[https://www.isst.fraunhofer.de/de/abteilungen/industrial-manufacturing/technologien/OFacT.html](https://www.isst.fraunhofer.de/en/departments/industrial-manufacturing/technologies/openfactorytwin.html)">
+  <a href="https://www.isst.fraunhofer.de/en/departments/industrial-manufacturing/technologies/openfactorytwin.html">
     <img src="https://img.shields.io/badge/website-005C7A.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="OFacT Website" />
   </a>
 </p>
