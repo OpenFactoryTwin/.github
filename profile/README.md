@@ -2,7 +2,7 @@
 
 <p align="center">
 <strong>OFacT is an open-source digital twin framework for production and logistics environments.<br />
-We support the design, planning, and operational control of discrete material flow systems — across the full system life cycle.</strong>
+We support the design, planning, and operational control of discrete material flow systems - across the full system life cycle.</strong>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Companies face a continuously evolving set of pressures:
 - Increasing number of product variants
 - Evolving regulations, legal requirements, and restrictions
 
-These challenges require constant, complex decision-making — often demanding dynamic evaluation and comparison of multiple scenarios. Detailed simulation models are frequently the only means of obtaining a reliable assessment of costs and performance, and real-world data must be continuously integrated to keep those models accurate and up-to-date.
+These challenges require constant, complex decision-making - often demanding dynamic evaluation and comparison of multiple scenarios. Detailed simulation models are frequently the only means of obtaining a reliable assessment of costs and performance, and real-world data must be continuously integrated to keep those models accurate and up-to-date.
 
 **OFacT** addresses this across two key phases of a production system:
 
@@ -39,7 +39,7 @@ These challenges require constant, complex decision-making — often demanding d
 | **Design / Re-design** | Simulate and evaluate design alternatives before the real system exists |
 | **Operation** | Iteratively plan orders and resources; control execution in real time when disruptions occur |
 
-Open source is central to our mission — accelerating research, enabling collaboration, and lowering the barrier for companies to adopt digital twin technology.
+Open source is central to our mission - accelerating research, enabling collaboration, and lowering the barrier for companies to adopt digital twin technology.
 
 ---
 
